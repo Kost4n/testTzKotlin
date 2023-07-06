@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">testAndroidAPP</string>
+    <string name="title_diary">Training Diary</string>
+    <string name="title_stopwatch">Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="add_button">Add new workout</string>
+    <string name="workouts_label">Workouts</string>
+    <string name="add_work">Enter Workout</string>
+    <string name="add_count">Enter Count</string>
+    <string name="counts_label">Counts</string>
+    <string name="add_dialog_label">Enter the exercise and the number of repetitions</string>
+    <string name="text_need_internet">Подключитесь к интернету и нажмите кнопку</string>
+    <string name="text_have_internet">Есть интернет</string>
+    <string name="restart_internet">Перезапустить</string>
+</resources>

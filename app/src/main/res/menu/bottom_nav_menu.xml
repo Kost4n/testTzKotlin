@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/navigation_stopwatch"
+            android:icon="@android:drawable/ic_lock_idle_alarm"
+            android:title="@string/title_stopwatch"/>
+    <item
+            android:id="@+id/navigation_diary"
+            android:icon="@android:drawable/ic_menu_today"
+            android:title="@string/title_diary"/>
+</menu>

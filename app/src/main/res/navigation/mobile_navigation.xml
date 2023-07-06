@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/mobile_navigation"
+            app:startDestination="@+id/navigation_stopwatch">
+    <fragment
+            android:id="@+id/navigation_stopwatch"
+            android:name="com.kost4n.testandroidapp.roof.fragments.stopwatch.StopwatchFragment"
+            android:label="@string/title_stopwatch"
+            tools:layout="@layout/fragment_stopwatch"/>
+    <fragment
+            android:id="@+id/navigation_diary"
+            android:name="com.kost4n.testandroidapp.roof.fragments.diary.DiaryFragment"
+            android:label="@string/title_diary"
+            tools:layout="@layout/fragment_diary"/>
+
+</navigation>

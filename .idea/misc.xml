@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/activity_basket.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/activity_category.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/activity_product.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/activity_roof.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/add_record_dialog.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/fragment_diary.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/fragment_stopwatch.xml" value="0.22780797101449277" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/layout_need_internet.xml" value="0.11302083333333333" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/list.xml" value="0.264" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/layout/record_row.xml" value="0.2825520833333333" />
+        <entry key="..\:/tetst/testAndroidAPP/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
